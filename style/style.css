@@ -40,6 +40,7 @@
 }
 .jumbotron {
 	background-image: url(../img/jumbotron-bg.jpg);
+	background-attachment: fixed;
 	background-size: cover;
 	height: 540px;
 	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
